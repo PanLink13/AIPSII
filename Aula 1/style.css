@@ -1,0 +1,23 @@
+h1{
+    color:chartreuse;
+    background-color: black;
+    border: 2px solid chartreuse;
+    border-radius: 8px;
+}
+h2{
+color: aqua;
+background-color: black;
+}
+p{
+color:aquamarine;
+background-color: dimgray;
+}
+body{
+    background-color:black;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
